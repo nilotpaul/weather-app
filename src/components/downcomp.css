@@ -1,0 +1,8 @@
+#over::-webkit-scrollbar{
+    background-color: #d4d4d4;
+    height: 6px;
+}
+
+#over::-webkit-scrollbar-thumb{
+    background-color: #393939;
+}
