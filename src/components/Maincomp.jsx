@@ -38,7 +38,7 @@ const Maincomp = ({ data, search }) => {
               gap-y-1
              ">
              <h2 className='text-[50px]'>{Math.round(data.main.temp)}°</h2>
-             <h2>Cloudy</h2>
+             <h2>{data.weather[0].main}</h2>
             </div>
              <div className='
               grid

@@ -1,4 +1,3 @@
-
 import useSWR from "swr";
 
 import "../components/downcomp.css"
